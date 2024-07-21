@@ -1,0 +1,38 @@
+* {
+    list-style: none !important;
+    text-decoration: none !important;
+    font-family: Ubuntu !important;
+    color: #333 !important;
+    ol, ul{padding: 0 !important;}
+}
+img{border-radius: 5px;}
+.container {
+    position: relative;
+}
+
+.btn-primary {
+    background-color: #2E0187 !important;
+    border-radius: 100px !important;
+    padding: 10px 35px !important;
+    font-weight: 500 !important;
+    border: 0 !important;
+    color: #fff !important;
+}
+
+.btn-success {
+    background-color: #D2E403 !important;
+    border-radius: 100px !important;
+    padding: 10px 35px !important;
+    font-weight: 500 !important;
+    border: 2px solid #fff !important;
+    color: #4804CF !important;
+}
+
+.container {
+    max-width: 980px !important;
+}
+
+.header {
+    max-width: 1200px !important;
+    margin: 0 auto;
+}

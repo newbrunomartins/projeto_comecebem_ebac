@@ -1,0 +1,103 @@
+.bgBlue {
+    background-color: #4804CF;
+    padding: 50px 0;
+    margin: 50px 0 100px;
+}
+.bgGreen {
+    background-color: #D2E403;
+    padding: 50px 0;
+    margin: 50px 0 100px;
+}
+
+.h1Verde {
+    color: #D2E403 !important;
+}
+
+.h1Azul {
+    color: #4804CF !important;
+}
+
+.footerBottom {
+    background-color: #19004B;
+    color: #fff;
+    padding: 10px 0;
+    font-size: 12px;
+    font-weight: 100;
+}
+
+.navbar ul {
+    position: absolute;
+    right: 0;
+
+}
+.navbar a{color: #4804CF !important;}
+
+.billboard h1,
+h1 {
+    font-size: 40px !important;
+    font-weight: 200 !important;
+}
+
+.billboard h1>span,
+h1 span {
+    font-size: 70px !important;
+    font-weight: 400 !important;
+    display: block;
+    margin-top: -20px;
+}
+
+.billboard p {
+    width: 100%;
+    max-width: 350px;
+    font-size: 18px;
+    font-weight: 100;
+}
+
+.getaSite {
+    position: relative;
+}
+
+.getaSite .btn {
+    position: absolute;
+    top: 40%;
+    right: 50px;
+    display: block;
+    padding: 20px 100px !important;
+}
+.getaJob{margin: 50px auto 0 !important;}
+.textSearch{
+    font-size: 25px;
+    display: block;
+    margin-bottom: 15px;
+}
+.ariaGetaJob button{
+    background-color: #fff !important;
+    color: #4804CF !important;
+    border: 0;
+}
+.veryBonus {
+    background-image: url(../images/image_beneficios.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    margin: 0 auto !important;
+    
+}
+.veryBonus p {
+    width: 100%;
+    max-width: 70%;
+    text-align: justify;
+}
+footer .contentFooter{margin: 0 auto;}
+footer h2 {
+    font-size: 20px;
+    font-weight: 400;
+    color: #D2E403 !important;
+}
+.contentFooter ol a {
+    color: #fff !important;
+    font-weight: 200;
+    list-style: none !important;
+}
+a.nav-link:hover, .contentFooter ol a:hover {
+    color: #D2E403 !important;
+}
